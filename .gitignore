@@ -1,2 +1,6 @@
 # .env file for API key(s)
 .env
+
+# Primers
+primer-practical/dynamic-hurst.py
+primer-practical/market-efficiency-testing-101.ipynb
