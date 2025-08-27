@@ -1,2 +1,1 @@
 <h1 align=center>Python - ML Trading</h1>
-# python-ml-trading
